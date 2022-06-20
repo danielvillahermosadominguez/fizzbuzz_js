@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.2.1"
+  }
+}
